@@ -8,7 +8,7 @@ module.exports = {
         base 将会自动地作为前缀插入到所有以 / 开始的其他选项的链接中，所以你只需要指定一次。
     */
    serviceWorker: true,
-  base: "/vuepress/",
+  // base: "/vuepress/",
 
   // title：网站的标题，它将会被用作所有页面标题的前缀，同时，默认主题下，它将显示在导航栏（navbar）上。
   title: "王森林的个人主页",
