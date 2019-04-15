@@ -21,6 +21,7 @@ module.exports = {
     ["link", { rel: "icon", href: "/img/logo.ico" }],
     ['link', { rel: 'manifest', href: '/manifest.json' }],
     ['link', { rel: 'apple-touch-icon', href: '/img/logo.png' }],
+    ['script', { type: 'text/javascript', src: '/js/clicklove.js' }],
   ],
 
   // host指定用于 dev server 的主机名。
